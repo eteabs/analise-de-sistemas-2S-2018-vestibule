@@ -8,7 +8,7 @@ Layla Rosa,
 Leisiany Oliveira e
 Mary Melo
 
-"O nosso sistema é um Curso Preparatório Online voltado para Escolas Técnicas" 
+"O nosso sistema é um Curso Preparatório Online voltado para Escolas Técnicas!" 
 
 Serviços: Simulados, Ranking de pontuação, Plano de estudo, Provas anteriores, Exercícios resolvidos,Vídeo Aula com legenda Apostilas, Calendário de Eventos Interação entre alunos.
 
