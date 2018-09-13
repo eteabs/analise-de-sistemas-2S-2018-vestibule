@@ -1,5 +1,5 @@
 #VESTIBULE
--Integrantes 
+-Integrantes:  
 Ana Clara,
 Carla Salisa,
 Darla Torres,
