@@ -1,11 +1,11 @@
 #VESTIBULE
 -Integrantes 
-Ana Clara
-Carla Salisa
-Darla Torres
-Ingrid de Paula
-Layla Rosa
-Leisiany Oliveira
+Ana Clara,
+Carla Salisa,
+Darla Torres,
+Ingrid de Paula,
+Layla Rosa,
+Leisiany Oliveira e
 Mary Melo
 
 "O nosso sistema é um Curso Preparatório Online voltado para Escolas Técnicas" 
